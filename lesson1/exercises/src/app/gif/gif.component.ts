@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-gif',
+  selector: 'gif',
   templateUrl: './gif.component.html',
   styleUrls: ['./gif.component.css']
 })

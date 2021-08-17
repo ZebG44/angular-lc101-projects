@@ -10,7 +10,7 @@ export class FavPhotosComponent implements OnInit {
   image1 = 'https://spaceplace.nasa.gov/gallery-sun/en/solar-flare.en.jpg';
   image2 = 'http://webmeup.com/upload/blog/lead-image-105.png';
   image3 = 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg';
-
+  
   constructor() { }
 
   ngOnInit() {
